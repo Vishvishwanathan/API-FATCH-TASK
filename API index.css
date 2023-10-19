@@ -1,0 +1,19 @@
+h5{
+    background-color: rgb(31, 61, 230);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: antiquewhite;
+    
+}
+.card-body{
+    background-color: aqua;
+    border-radius: 4px;
+    padding-left: 20px;
+    box-shadow: 0px 10px 10px gray;
+    
+}
+.card-text{
+    text-size-adjust: 10px;
+    font-style: normal;
+}
